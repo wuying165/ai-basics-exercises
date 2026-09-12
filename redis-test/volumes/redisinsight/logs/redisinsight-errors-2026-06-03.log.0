@@ -1,0 +1,5 @@
+6/3/2026, 8:28:29 AM | ERROR | KeytarEncryptionStrategy | Failed to initialize keytar module | [object Object]
+6/3/2026, 8:28:35 AM | ERROR | CommandsJsonProvider:redisearch | Unable to update redisearch commands | [object Object]
+6/3/2026, 8:28:35 AM | ERROR | CommandsJsonProvider:redisjson | Unable to update redisjson commands | [object Object]
+6/3/2026, 8:28:35 AM | ERROR | CommandsJsonProvider:redisbloom | Unable to update redisbloom commands | [object Object]
+6/3/2026, 8:28:35 AM | ERROR | CommandsJsonProvider:triggers_and_functions | Unable to update triggers_and_functions commands | [object Object]

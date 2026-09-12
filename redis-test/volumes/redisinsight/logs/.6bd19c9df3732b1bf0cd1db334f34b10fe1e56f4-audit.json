@@ -1,0 +1,36 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 7
+    },
+    "auditFilename": "/data/logs/.6bd19c9df3732b1bf0cd1db334f34b10fe1e56f4-audit.json",
+    "hashType": "sha256",
+    "extension": "",
+    "files": [
+        {
+            "date": 1780475309814,
+            "name": "/data/logs/redisinsight-2026-06-03.log.0",
+            "hash": "63035861925e657b6c60b24428d96437649ed6f86933e86086d234fb5fe2780c"
+        },
+        {
+            "date": 1780657146285,
+            "name": "/data/logs/redisinsight-2026-06-05.log.0",
+            "hash": "919bfdfb14c1f3b4e954e8c5ffc2e2fb7c9f0156e7b3659d47065b11f531021e"
+        },
+        {
+            "date": 1780726014307,
+            "name": "/data/logs/redisinsight-2026-06-06.log.0",
+            "hash": "480470683550c1e4146b36e8103a2db5629db56620afb171523ba6cc4dbe5460"
+        },
+        {
+            "date": 1780813368836,
+            "name": "/data/logs/redisinsight-2026-06-07.log.0",
+            "hash": "25d9adf2d4b067e46f71a0f12ff65f1b85b759514578f93fc3ee17b0fe94e79e"
+        },
+        {
+            "date": 1780832495414,
+            "name": "/data/logs/redisinsight-2026-06-07.log.2026",
+            "hash": "172ed892aaf97c56dbcb55aa704bc96bdca8c2f3426ff8d85cbae8e1c4d55b7b"
+        }
+    ]
+}

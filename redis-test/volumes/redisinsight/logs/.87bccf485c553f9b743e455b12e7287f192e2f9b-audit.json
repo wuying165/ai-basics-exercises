@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 7
+    },
+    "auditFilename": "/data/logs/.87bccf485c553f9b743e455b12e7287f192e2f9b-audit.json",
+    "hashType": "sha256",
+    "extension": "",
+    "files": [
+        {
+            "date": 1780475309812,
+            "name": "/data/logs/redisinsight-errors-2026-06-03.log.0",
+            "hash": "c96d00d3834b0c28bcc0d1ea1fb1ae7e6eedf5ec371bbbbdc5003eb20c23d61e"
+        },
+        {
+            "date": 1780728928917,
+            "name": "/data/logs/redisinsight-errors-2026-06-06.log.0",
+            "hash": "c84a1303dee66292152ef6d58018682139a5c1013b55c811e4bb02b9ed2fb300"
+        },
+        {
+            "date": 1780832495412,
+            "name": "/data/logs/redisinsight-errors-2026-06-07.log.0",
+            "hash": "f8bb1394b184207a08e6c0be370770e3a88777ee3f5fbc76aa9d217dcacca19f"
+        }
+    ]
+}

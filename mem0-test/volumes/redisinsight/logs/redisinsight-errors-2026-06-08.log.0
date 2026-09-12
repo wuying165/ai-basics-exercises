@@ -1,0 +1,8 @@
+6/8/2026, 6:13:56 AM | ERROR | GlobalNotificationProvider | Unable to download or parse notifications json. Request failed with status code 504 | [object Object]
+6/8/2026, 6:13:56 AM | ERROR | GlobalNotificationProvider | Unable to sync notifications with remote | [object Object]
+6/8/2026, 7:13:58 AM | ERROR | GlobalNotificationProvider | Unable to download or parse notifications json. Request failed with status code 504 | [object Object]
+6/8/2026, 7:13:58 AM | ERROR | GlobalNotificationProvider | Unable to sync notifications with remote | [object Object]
+6/8/2026, 8:13:59 AM | ERROR | GlobalNotificationProvider | Unable to download or parse notifications json. Request failed with status code 504 | [object Object]
+6/8/2026, 8:13:59 AM | ERROR | GlobalNotificationProvider | Unable to sync notifications with remote | [object Object]
+6/8/2026, 12:59:29 PM | ERROR | GlobalNotificationProvider | Unable to download or parse notifications json. Client network socket disconnected before secure TLS connection was established | [object Object]
+6/8/2026, 12:59:29 PM | ERROR | GlobalNotificationProvider | Unable to sync notifications with remote | [object Object]
